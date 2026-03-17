@@ -15,12 +15,9 @@ An AI-based surveillance system that detects objects and analyzes activities in 
 - MobileNet-SSD
 - NumPy
 
-## Demo
-(Add your video link here)
 
 ## How to Run
-pip install -r requirements.txt  
-python app.py
+python main.py
 
 ## Use Cases
 - Smart city surveillance
